@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/CloneCoding-namyang-/static/css/main.cc39b069.css",
+    "main.js": "/CloneCoding-namyang-/static/js/main.06a68e83.js",
+    "static/media/main.jpg": "/CloneCoding-namyang-/static/media/main.4fe6b25ab719c4bf372c.jpg",
+    "index.html": "/CloneCoding-namyang-/index.html",
+    "main.cc39b069.css.map": "/CloneCoding-namyang-/static/css/main.cc39b069.css.map",
+    "main.06a68e83.js.map": "/CloneCoding-namyang-/static/js/main.06a68e83.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cc39b069.css",
+    "static/js/main.06a68e83.js"
+  ]
+}
