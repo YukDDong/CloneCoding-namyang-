@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/CloneCoding-namyang-/static/css/main.c5adb4e2.css",
-    "main.js": "/CloneCoding-namyang-/static/js/main.5e2dc689.js",
+    "main.css": "/CloneCoding-namyang-/static/css/main.b8fd9f66.css",
+    "main.js": "/CloneCoding-namyang-/static/js/main.f0ba3b68.js",
     "static/media/main1.png": "/CloneCoding-namyang-/static/media/main1.e804aa63dae694fd630c.png",
     "index.html": "/CloneCoding-namyang-/index.html",
-    "main.c5adb4e2.css.map": "/CloneCoding-namyang-/static/css/main.c5adb4e2.css.map",
-    "main.5e2dc689.js.map": "/CloneCoding-namyang-/static/js/main.5e2dc689.js.map"
+    "main.b8fd9f66.css.map": "/CloneCoding-namyang-/static/css/main.b8fd9f66.css.map",
+    "main.f0ba3b68.js.map": "/CloneCoding-namyang-/static/js/main.f0ba3b68.js.map"
   },
   "entrypoints": [
-    "static/css/main.c5adb4e2.css",
-    "static/js/main.5e2dc689.js"
+    "static/css/main.b8fd9f66.css",
+    "static/js/main.f0ba3b68.js"
   ]
 }
